@@ -1,0 +1,27 @@
+body{background-color:gray;}
+h1  {text-align: center;
+     color: #7a2121;
+    text-transform: capitalize;
+    text-emphasis: none;}
+.to {color: aqua;}
+h2  {text-align: center;color: rgb(15, 15, 15);}
+table,tr,td
+    {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border:2px solid black; 
+    border-collapse:collapse;
+    width: 400px;
+    }
+.tr1{
+    color: #7a2121;
+    background-color: aqua;
+    }
+.div1{
+    margin-left: 450px;
+    margin-right: auto;
+    }
+            
